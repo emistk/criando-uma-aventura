@@ -2,4 +2,15 @@ body{
    background-color: rgb(232, 214, 248);  
 color:rgb(141, 54, 175);
 font-family: "Tinos", serif;
+display: flex;
+justify-content: center;
+align-items: center;
+height: 700px;
+margin: 0;
+}
+button{
+
+   background-color: rgb(222, 122, 231);
+   color: rgb(13, 13, 14);
+   font-family: "Tinos", serif;
 }
