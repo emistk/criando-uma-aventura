@@ -8,9 +8,27 @@ align-items: center;
 height: 700px;
 margin: 0;
 }
+
 button{
 
    background-color: rgb(222, 122, 231);
    color: rgb(13, 13, 14);
    font-family: "Tinos", serif;
+}
+
+.passo{
+   display: none;
+}
+
+.passo.ativo {
+   display: block;
+}
+
+main{
+   text-align: center;
+   max-width: 90%;
+}
+
+img{
+   max-width: 90%;
 }
